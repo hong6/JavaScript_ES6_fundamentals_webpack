@@ -1,4 +1,4 @@
-# Webpack Frontend Starterkit
+# JavaScript-ES6
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
 
